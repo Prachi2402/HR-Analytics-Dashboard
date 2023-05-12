@@ -11,14 +11,14 @@ Also, the dataset includes information such as employee demographics, education 
 
 The dashboard includes various visualizations such as:
 
-Department wise attrition
+- Department wise attrition
 
-Attrition by gender
+- Attrition by gender
 
-Number of employees by age group
+- Number of employees by age group
 
-Job satisfaction rating
+- Job satisfaction rating
 
-Education field wise attrition
+- Education field wise attrition
 
-Attrition rate by gender for different age group
+- Attrition rate by gender for different age group
