@@ -6,3 +6,9 @@
 [Download HR Data](https://github.com/username/repository/raw/main/HR%20Data.xlsx) from here.
 
 Also, the dataset includes information such as employee demographics, education field, attrition, gender, CF age band etc.
+
+# Visualizations
+
+The dashboard includes various visualizations such as:
+
+Department wise attrition
